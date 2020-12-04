@@ -1,0 +1,362 @@
+/* Enter Your Custom CSS Here */
+.header {
+  margin-bottom: 10px;
+  padding: 10px 0px 10px 10px;
+}
+.navbar {
+   background-color: #e12019;
+   text-align: left;
+}
+
+.navbar-nav > .active a {
+    background-color: #fc524c;
+}
+.navbar-toggle {
+  background-color: #1a4282;
+}
+.navbar .navbar-nav > li > a:hover {
+    background-color: #fc524c;
+}
+
+.menu-destacado {
+    background-color: #01478d;
+    padding: 10px 0px 10px 10px;
+}
+
+.logo-header {
+    width: 200px;
+    padding-top: 30px;
+    border: 0px dotted grey;
+    width: 180px;
+    /* height: 100px; */
+    z-index: 20;
+    margin-left: 20px;
+    position: relative;
+}
+
+.btn-defecto {
+  background: #e21d1a;
+  font-weight: bolder;
+  text-transform: uppercase;
+  padding: 15px 15px 15px 15px;
+  font-size: 12px;
+  width: 126px;
+}
+
+.btn-defecto-ventas {
+    background: #e21d1a;
+    font-weight: bolder;
+    text-transform: uppercase;
+    padding: 15px 15px 15px 15px;
+    font-size: 20px;
+    margin-top: 250px;
+  	border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+  	border-radius: 10px;
+}
+
+.input-group-addon {
+  background-color: #8EB42F !important;
+  color:#ffffff;
+}
+.btn:hover {
+    color: #ffffff;
+    text-decoration: none;
+}
+.btn-carrito-header:hover {
+  background-color: #2c5182 !important;
+}
+.cantidad-productos {
+  color: #9ba8b8;
+  background-color:#ffffff;
+      padding: 2px 7px;
+}
+.btn:hover {
+    color: #ffffff;
+    text-decoration: none;
+}
+.btn-ingresar-header:hover {
+  background-color: #2c5182 !important;
+}
+
+.btn-defecto-agregar {
+  background-color: #8EB42F !important;
+}
+.btn-defecto-fecha {
+  background-color: #8EB42F !important;
+}
+.bootstrap-touchspin-down {
+  background-color: #74961e !important;
+}
+.bootstrap-touchspin-up {
+  background-color: #8EB42F !important;
+}
+.creditos {
+    background-color: #1a4282;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.breadcrumbs {
+    background-color: #ffffff;
+    color: #20406b;
+}
+
+.breadcrumbs a {
+    color: #e12019;
+}
+
+.titular-cat {
+    background-color: #307cad;
+    color: #ffffff;
+      text-shadow: 3px 3px 3px #2d3338;
+
+}
+.category-8 .contenedor-empresa:first-child {
+    background-size: cover;
+    background-position: top center;
+}
+
+/*Estilo de titulo de cajas*/
+.titulo-1 {
+  text-shadow: 3px 3px 3px #2d3338;
+  margin-top: 50px;
+  margin-bottom: 50px;
+ 
+}
+
+.header {
+  margin-bottom: 10px;
+  padding: 10px 0px 10px 10px;
+}
+h1,h2,h3,h4,h5,h6, .navbar {
+
+}
+.navbar {
+    background-color: #e12019;
+}
+
+.navbar-nav > .active a {
+    background-color: #fc524c;
+}
+.navbar-toggle {
+  background-color: #1a4282;
+}
+.navbar .navbar-nav > li > a:hover {
+    background-color: #fc524c;
+}
+
+.menu-destacado {
+    background-color: #01478d;
+    padding: 10px 0px 10px 10px;
+}
+
+.logo-header {
+    width: 200px;
+    padding-top: 30px;
+    border: 0px dotted grey;
+    width: 180px;
+    /* height: 100px; */
+    z-index: 20;
+    margin-left: 20px;
+    position: relative;
+}
+
+.btn-defecto {
+  background: #e21d1a;
+  font-weight: bolder;
+  text-transform: uppercase;
+  padding: 15px 15px 15px 15px;
+  font-size: 12px;
+  width: 126px;
+}
+
+.btn-defecto-ventas {
+    background: #e21d1a;
+    font-weight: bolder;
+    text-transform: uppercase;
+    padding: 15px 15px 15px 15px;
+    font-size: 20px;
+    margin-top: 250px;
+  	border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+  	border-radius: 10px;
+}
+
+.input-group-addon {
+  background-color: #8EB42F !important;
+  color:#ffffff;
+}
+.btn-carrito-header {
+  margin-top: 0px;
+  padding-left: 15px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  margin-right: 0px;
+  height: 42px;
+  width: 142px;
+  background-color: #3c70b4 !important;
+  color:#ffffff;
+  border-radius:4px;
+  padding: 10px 10px 5px 5px; 
+}
+
+.nombre-usuario .btn {
+    font-size: 12px;
+    padding: 12px 3px;
+ 	width: 136px;
+}
+
+.btn:hover {
+    color: #ffffff;
+    text-decoration: none;
+}
+.btn-carrito-header:hover {
+  background-color: #2c5182 !important;
+}
+
+
+.cantidad-productos {
+  color: #9ba8b8;
+  background-color:#ffffff;
+      padding: 2px 7px;
+}
+.btn-ingresar-header, .btn-defecto-registro {
+    margin-top: 0px;
+    padding-left: 15px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    margin-right: 0px;
+    height: 42px;
+    width: 142px;
+  	background-color: #3c70b4 !important;
+  	color:#ffffff;
+  	border-radius:4px;
+  	padding: 5px 5px 5px 5px;
+}
+
+.btn:hover {
+    color: #ffffff;
+    text-decoration: none;
+}
+.btn-ingresar-header:hover {
+  background-color: #2c5182 !important;
+}
+
+.btn-defecto-agregar {
+  background-color: #8EB42F !important;
+}
+.btn-defecto-fecha {
+  background-color: #8EB42F !important;
+}
+.bootstrap-touchspin-down {
+  background-color: #74961e !important;
+}
+.bootstrap-touchspin-up {
+  background-color: #8EB42F !important;
+}
+.creditos {
+    background-color: #1a4282;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.breadcrumbs {
+    background-color: #ffffff;
+    color: #20406b;
+}
+
+.breadcrumbs a {
+    color: #e12019;
+}
+
+.titular-cat {
+    background-color: #307cad;
+    color: #ffffff;
+      text-shadow: 3px 3px 3px #2d3338;
+
+}
+.category-8 .contenedor-empresa:first-child {
+    background-size: cover;
+    background-position: top center;
+}
+
+/*Estilo de titulo de cajas*/
+.titulo-1 {
+  text-shadow: 3px 3px 3px #2d3338;
+  margin-top: 50px;
+  margin-bottom: 50px;
+ 
+}
+
+body {
+    background-image: url(/wp-content/uploads/2020/09/Cielo_baja_01.jpg);
+    background-position: center top;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.botones-header .menu-item a {
+    margin: 5px;
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 11px;
+}
+.modulo-atraccion.bg-adrenalina {
+    background-size: cover;
+    padding: 5px 5px 5px 5px;
+    width: 90%;
+    height: 280px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.modulo-atraccion.bg-familiares {
+    background-size: cover;
+    padding: 5px 5px 5px 5px;
+    width: 90%;
+    height: 280px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.modulo-atraccion.bg-zonakids {
+    background-size: cover;
+    padding: 5px 5px 5px 5px;
+    width: 90%;
+    height: 280px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.modulo-atraccion.bg-pagados {
+    background-size: cover;
+    padding: 5px 5px 5px 5px;
+    width: 90%;
+    height: 280px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.parallax-home-venta {
+    background-position: bottom;
+    background-size: cover;
+    height: 450px;
+    background-attachment: local;
+}
+#wpshed-media-widget-7 .modulo-home, .single-post .row > .col-xs-12:nth-child(1) .modulo-home {
+    background-image: url(wp-content/themes/fantasilandia-theme/images/modulo1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.page-id-52 .carro, .carro {
+    background-color: #307cad;
+}
+.home .row h2 {
+  color: #ffffff;
+}
+.aumenta-carro .btn-default {
+    font-size: 9px !important;
+}
+.input-group-btn {
+    padding: 0px 0;
+}
